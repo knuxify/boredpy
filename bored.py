@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # bored - a small utility that gives you ideas for things to do
 # python rewrite
 
